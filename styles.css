@@ -1,0 +1,206 @@
+body {
+    background: #f8f8f7 ;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif ;
+    font-weight: 300 ;
+}
+
+h3 {
+    font-weight: 300 ;
+}
+
+.header-woof {
+    display: none ;
+}
+
+#header {
+    background: #417380 ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.board-header-btn-name-org-logo {
+    -webkit-filter: contrast(3000%) invert(100%) ;
+}
+
+.js-open-board {
+    background: #979798 ;
+    font-weight: 300 ;
+}
+
+.board-canvas {
+    padding-top: 20px;
+}
+
+.js-open-board:hover {
+    background: #3ab0c8 ;
+}
+
+.thumbnail {
+    background: #979798 ;
+}
+
+.sidebar-section-header-title {
+    text-decoration: none ;
+    font-weight: 300 ;
+}
+
+#search-text {
+    border-radius: 0px ;
+}
+
+.board-header {
+    height: 40px ;
+    background: #3ab0c8 ;
+}
+
+/* header buttons */
+
+.header-btn.header-notifications, .header-btn.header-boards, .header-btn.header-search, .header-btn.header-login, .header-btn.header-signup {
+    background: none ;
+}
+
+.header-btn:hover {
+    background: none ;
+}
+
+.header-user {
+    top: 10px ;
+    right: 5px ;
+    font-weight: 300 ;
+}
+
+.header-btn-text {
+    font-weight: 300 ;
+}
+
+.header-logo-default {
+    top: 6px;
+}
+
+.board-header-btn-text {
+    text-decoration: none ;
+}
+
+.board-header-btn-name {
+    font-weight: 300 ;
+}
+
+.text {
+    text-decoration: none ;
+}
+
+.header-member {
+    background: none ;
+}
+
+.member {
+    border-radius: 20px ;
+    border: none ;
+    background: none ;
+}
+
+.member img {
+    border-radius: 0 ;
+    border: none ;
+}
+
+.list-area {
+    margin-top: 30px ;
+}
+
+.list-header-name {
+    color: #3ab0c8 ;
+    font-weight: 300 ;
+    text-transform: capitalize 
+;
+}
+
+.list {
+    background: #fff ;
+}
+
+.list-card:hover {
+    transition: background 0.5s ease-out ;
+}
+
+.add-list {
+    background: none ;
+}
+
+.add-list:hover {
+    background: #fff ;
+}
+
+.add-list span {
+    color: #3ab0c8 ;
+}
+
+.open-card-composer:hover {
+    text-decoration: none ;
+    background: none ;
+    color: #3ab0c8 ;
+}
+
+.window-wrapper {
+    background: #fff ;
+}
+
+.window-wrapper h3 {
+    font-weight: normal ;
+}
+
+.window-wrapper a {
+    text-decoration: none ;
+}
+
+.window-overlay {
+    background: rgba(#3ab0c8, 0.8) ;
+}
+
+strong {
+    font-weight: 300 ;
+}
+
+.js-open-move-from-header {
+    color: #3ab0c8 ;
+    font-weight: 300 ;
+}
+
+.window-title-text {
+    font-weight: 300 ;
+}
+
+.button-link {
+    font-weight: 300;
+    background: #f0f0f0;
+}
+
+.button-link:hover {
+    background: #3ab0c8 ;
+    border-color: #3ab0c8 ;
+}
+
+.checklist-progress-bar-current {
+    background: #3ab0c8 ;
+}
+
+.confirm {
+    background: #3ab0c8 ;
+}
+
+.ui-state-active {
+    background: #3ab0c8 ;
+}
+
+.new-comment-input {
+    border: 1 ;
+}
+
+.pop-over-list li>a:hover {
+    background-color: #3f6f7b;
+}
+
+input[type="submit"].primary, input[type="button"].primary, button.primary, .button.primary {
+    background: #3ab0c8 ;
+}
+
